@@ -126,10 +126,10 @@ class HardwarePatchsetDetection:
             amd_vega.AMDVega,
 
             #legacy_wireless.LegacyWireless,
-            modern_wireless.ModernWireless,
+            #modern_wireless.ModernWireless,
 
             #legacy_audio.LegacyAudio,
-            modern_audio.ModernAudio,
+            #modern_audio.ModernAudio,
 
             #display_backlight.DisplayBacklight,
             #gmux.GraphicsMultiplexer,
